@@ -1,0 +1,14 @@
+#car {
+    position: relative;
+    cursor: pointer;
+}
+#car2{
+    position: relative;
+    cursor: pointer;
+    margin-top: 50px;
+}
+#start{
+    height: 25px;
+    width: 25px;
+    background-color: red;
+}
